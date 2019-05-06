@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Александр Чирков](https://up.htmlacademy.ru/htmlcss/25/user/856685).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Терлюк](https://htmlacademy.ru/profile/dzmitryblr).
 
 ---
 
